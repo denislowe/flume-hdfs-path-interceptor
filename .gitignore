@@ -1,2 +1,5 @@
 .DS_Store
 /src/test/resources/syslog_event.avsc
+/.classpath
+/.project
+/target

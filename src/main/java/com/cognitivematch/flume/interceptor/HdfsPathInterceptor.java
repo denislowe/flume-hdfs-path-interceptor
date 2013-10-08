@@ -157,10 +157,10 @@ public class HdfsPathInterceptor implements Interceptor {
 	}
 	
 	/**
-	 * DTO for storing the index and header
+	 * DTO helper for storing the index and header
 	 *
 	 */
-	protected static class HeaderIndex {
+	private static class HeaderIndex {
 		private final String header;
 		private final int index;
 
